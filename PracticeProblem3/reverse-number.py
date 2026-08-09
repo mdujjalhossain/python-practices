@@ -12,5 +12,5 @@
 # Convert to string, reverse using [::-1], and convert back to int
 
 num = int(input('Enter the number: '))
-reversed_num = int(str(num)[::-1])    # works on stings only [start:stop:step]/ [: : -1] to reverse the string
+reversed_num = int(str(num)[::-1])    # works on stings data [start:stop:step]/ [: : -1] to reverse the string
 print(type(reversed_num))
