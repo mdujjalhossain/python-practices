@@ -28,7 +28,11 @@
 # a = [1,2,3,2,3,3,4,5,2,5,5,1]
 # print(a.count(5))           # output = 3
 
-
+# extend(), add the elements of a list to the end of the current list------------   7
+a = [12, 23, 34]
+# a.extend([80, 90])
+a = a + [80, 90]
+print(a)        # output = [12, 23, 34, 80, 90]
 
 
 
