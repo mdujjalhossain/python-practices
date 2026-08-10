@@ -2,4 +2,4 @@ name = input("Please Enter Your Name: ")
 age = input("Your Age?")
 # print("Hi!", name, "Your age is: ", age)
 # print("Your age is:", age)
-print(f"Hi! {name}, Your age is {age}")
+print(f"Hi! {name}, Your age is {age}")     # using function string
