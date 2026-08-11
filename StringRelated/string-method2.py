@@ -9,7 +9,7 @@ print('titled: ', a.title())
 b = 'heLLo WorlD'
 print('swapcase: ', b.swapcase())
 
-# casefold()  # uses like lowercase but more power full for special word: -> groß
+# casefold()  # use for lowercase but more power full for special word: -> groß
 c = 'groß'
 print('casefold: ', c.casefold())
 
